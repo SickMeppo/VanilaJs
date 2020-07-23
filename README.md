@@ -1,2 +1,0 @@
-# VanilaJs
-VanilaJs 
